@@ -1,0 +1,10 @@
+li {
+  margin-bottom: 10px;
+  list-style: none;
+}
+
+li button {
+  font-size: 12px;
+  margin-left: 20px;
+  columns: #666;
+}
